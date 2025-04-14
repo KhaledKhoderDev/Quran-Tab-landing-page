@@ -1,0 +1,20 @@
+{
+  "name": "quran-tab-landing-page",
+  "version": "1.0.0",
+  "description": "Quran Tab Landing Page",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.14.4",
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "sass": "^1.86.3"
+  }
+}
